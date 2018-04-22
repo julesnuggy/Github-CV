@@ -1,18 +1,30 @@
-## Julian Ng
-### Consultant Converted Coder
+# Julian Ng
+## Consultant Converted Coder
 
-Prior to joining Makers Academy, I was a management consultant specialising in innovation, business change and data analytics. During my 8 years in this role, I provided advice and support to internal and external clients in the defence, government, transport, engineering and aerospace industries. My final project was desgining, developing and delivering an Intelligence as a Service offering for the business from the ground up.
+After 8 years of working as a business change & analytics consultant, I have re-trained to become a software developer, which has been a long-held and much-delayed ambition of mine. I have a passion for problem solving and a keen eye for detail which, when combined with my previous professional experience, provides me with a strong foundation for programming.
 
-In 2017, I decided that I needed a change in my career, and so I (finally!) made the jump into the weird and wonderful world of programming. I made this decision based on two main factors.
-1) This has long been an interest of mine - my favourite past projects as a management consultant were those that involved designing and building bespoke tools and models, typically to churn through masses of data to derive meaningful insights and generate visualisations. Developing a tangible output which would improve the customer's operations, and the journey of getting there - overcoming many obstacles and learning new things each day - has always been extremely satisfying for me. 
+As a junior full-stack developer, I have experience across client-side, server-side and database technologies. That said, I have a partial bias towards front-end development for its visual creativity. My ultimate goal is to become a game developer but I appreciate that there is a lot I can learn along the way from other industries.
 
-2) My partner and I recently lost our home and all our possessions in a fire. This might seem like an odd reason to make me want to become a programmer but it was a major catalyst to getting me where I am now. After this traumatic event we went travelling to take time to contemplate our life choices and happiness. From this, I committed myself to being less risk-averse and truer to my heart, and to start doing what's better for me in the long term - professionally and personally. 
+[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
 
-So, I left my job to have a fresh start in 2018, and I have the honour of doing that with Makers Academy. At the end of this journey, I hope to join a Small-Medium Enterprise as all my professional experience to date has been with large multinational corporations and I am looking for the close-knit family feel of an SME. The combination of skills and experience as a management consultant with my newly acquired programming capapbilities means I am well-rounded, commercially astute and highly motivated.
+# Projects
+|Project|Summary|Tech Stack|Testing|
+|-------|-------|----------|-------|
+|Acebook|An innovative and unique social media web app created with Ruby on Rails in a team of four over two weeks. Held role of project manager throughout. Deployed via [Heroku](splendaberg-acebook.herokuapp.com) using Continuous Integration & Deployment.|Ruby on Rails, PostgreSQL, HTML/CSS, Heroku, Amazon S3|RSpec, Capybara, Rubocop, Travis CI, CodeClimate|
+|Bowling|JavaScript|.|.|
+|Phoenix|Ruby, databases|.|.|
+|Rock, Paper, Scisors|Ruby, Sinatra|.|.|
+|Takeaway|Ruby, API|.|.|
+|Cantuar|Personal Project|.|.|
 
-## Skills
+# Professional Experience
+# Education and Qualifications
+# Hobbies
+# Networks
 
-### Programming Skills
+--------------------------------------------------------------------------------
+
+## Programming Skills
 
 _Ruby_
 
@@ -35,7 +47,7 @@ Over the years, I have designed, developed and delivered numerous bespoke tools 
 - Royal Navy "Ice Pick" -- Journey planning calculation and optimisation toolset to support RN ice patrol and survey operations.
 - Royal Navy MHPC Future Capability Study -- A complex suite of tools to analyse over 150 RN mission packages to identify optimal options to meet the client’s financial and operational needs over 10, 20 and 50 years. 
 
-### Consultancy SKills
+## Consultancy SKills
 _Business Analysis & Organisational Studies_
 
 - Innovation Hub Maritime Autonomous Systems -- Developed the Concept of Operations (CONOPS) for a study into the trends, innovations and future uses of Maritime Autonomous Systems (MAS). Produced and presented use cases for Information, Surveillance, Target Acquisition and Reconnaissance (ISTAR) CONOPS through desktop research, stakeholder interviews and innovation.
@@ -56,9 +68,9 @@ _Data Modelling & Tool Development_
 
 - See "VBA for Excel" in Programming Skills above.
 
-## Education
+# Education
 
-#### Makers Academy (Feb 2018 - May 2018)
+### Makers Academy (Feb 2018 - May 2018)
 
 _Traits_
 - TBC
@@ -70,14 +82,14 @@ _Skills_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol (2005-2009)
+### University of Bristol (2005-2009)
 
 - Economics with Study in Continental Europe (Valencia, Spain)
 - Erasmus year abroad studying at Unversitat de Valencia (all modules in Spanish)
 - BSc (Hons)
 - Tae Kwon Do - from total beginner, achieved black belt (1st Dan); treasurer during 2nd year
 
-#### Hills Road Sixth Form College (2003-2005)
+### Hills Road Sixth Form College (2003-2005)
 
 - Maths: A
 - Chemistry: A
@@ -85,11 +97,11 @@ _Skills_
 - English Lit: A
 - Physics: A (AS-Level)
 
-#### Other Qualifications
+### Other Qualifications
 
 - PRINCE II Practitioner (2013)
 
-## Experience
+# Experience
 
 **Thales UK Ltd** (2011-2017)
 Senior Consultant
