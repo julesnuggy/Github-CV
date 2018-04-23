@@ -7,15 +7,20 @@ As a junior full-stack developer, I have experience across client-side, server-s
 
 [PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
 
-# Projects
-|Project|Summary|Tech Stack|Testing|
-|-------|-------|----------|-------|
-|Acebook|An innovative and unique social media web app created with Ruby on Rails in a team of four over two weeks. Held role of project manager throughout. Deployed via [Heroku](splendaberg-acebook.herokuapp.com) using Continuous Integration & Deployment.|Ruby on Rails, PostgreSQL, HTML/CSS, Heroku, Amazon S3|RSpec, Capybara, Rubocop, Travis CI, CodeClimate|
-|Bowling|JavaScript|.|.|
-|Phoenix|Ruby, databases|.|.|
-|Rock, Paper, Scisors|Ruby, Sinatra|.|.|
-|Takeaway|Ruby, API|.|.|
-|Cantuar|Personal Project|.|.|
+# Makers Academy Projects
+|Project|Summary|Team Size|Tech Stack|Testing|
+|-------|-------|---------|----------|-------|
+|Acebook|An innovative and one-of-a-kind social media web app created with Ruby on Rails, brought to you by Team Splendaberg over two weeks. Held role of project manager throughout. [Deployed on Heroku](https://splendaberg-acebook.herokuapp.com) using Continuous Integration & Deployment.|4|Ruby on Rails, PostgreSQL, HTML/CSS, Heroku, Amazon S3|RSpec, Capybara, Rubocop, Travis CI, CodeClimate|
+|..|..|..|..|..|
+|Thermostat|Single-page app for controlling your (fictional) thermostat. I am particularly proud of this app for its  persistent data feature without a database. Connected to a weather API to display the London temperature.|2|JavaScript|..|
+|Bowling|Find it difficult to keep track of your bowling score because of the complicated logic? Wish you had an app which gamefied the game to make it gamier? Hate page refreshes? Struggle no more with this one-page JavaScript bowling scorecard!|1|JavaScript, jQuery, Node.JS, Express|Zombie|
+|Phoenix|Do you like your avian-themed social media platforms? Do you like RPGs? Then Phoenix is the app for you!|1|Ruby, Sinatra, PostgreSQL|RSpec, Capybara|
+|Rock, Paper, Scisors|A digital version of the classic digit-manipulation game.|1|Ruby, Sinatra|RSpec, Rubocop, Capybara|
+
+# Personal Projects
+|Project|Summary|Team Size|Tech Stack|Testing|
+|-------|-------|---------|----------|-------|
+|Cantuar|Personal Project|1|Ruby on Rails, PostgreSQL, HTML/CSS|RSpec, Rubocop, Capybara|
 
 # Professional Experience
 # Education and Qualifications
