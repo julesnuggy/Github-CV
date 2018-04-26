@@ -1,10 +1,10 @@
 # Julian Ng
 
-After 8 years of working as a business change & analytics consultant, I have re-trained to become a software developer, which has been a long-held and much-delayed ambition of mine. I have a passion for problem solving and a keen eye for detail which, when combined with my previous professional experience, provides me with a strong foundation for programming.
+Junior full-stack developer with a passion for developing beautiful apps using simple code. I spent the first 8 years of my professional career as a business change & analytics consultant until I finally decided to re-train to become a software developer, which has been a long-held and much-delayed ambition of mine. I have a passion for problem solving and a keen eye for detail which, when combined with my previous professional experience, provides me with a strong foundation for programming.
 
-As a junior full-stack developer, I have experience across client-side, server-side and database technologies. That said, I have a partial bias towards front-end development for its visual creativity. My ultimate goal is to become a game developer but I appreciate that there is a lot I can learn along the way from other industries.
+I have experience across client-side, server-side and database technologies. That said, I have a partial bias towards front-end development for its visual creativity. My ultimate goal is to become a game developer but I appreciate that there is a lot I can learn along the way from other industries.
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications) | [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
 
 # Projects
 ## Makers Academy Projects
@@ -69,10 +69,12 @@ I go to the gym 3-4 times a week as it is important for me to stay physically fi
 
 Travelling is a passion for me - seeing, learning and experiencing other countries, cultures and (importantly) food!
 
-I'm also an avid gamer - a Playstation loyalist with a love for the Final Fantasy series.
+I'm also an avid gamer - a PlayStation loyalist with a love for the Final Fantasy series. My desire to work in the gaming industry stems from this passion.
+
+As a linguist, I love to learn other languages - I can speak Cantonese, Mandarin, and Spanish.
 
 # Networks and Media
-<div style="text-align: center; letter-spacing: 20px;">
+<div style="text-align: center; letter-spacing: 20px">
 
   <a href="https://www.linkedin.com/in/julian-ng-43589420">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" alt="linkedin" hspace="50" height="42" width="42"></a>
