@@ -1,8 +1,8 @@
 # Julian Ng
 
-Junior full-stack developer with a passion for developing beautiful apps using simple code. I have experience across client-side, server-side and database technologies using object oriented design. I have a partial bias towards front-end development for its visual creativity but I am also strong at applying back-end logic. My ultimate goal is to become a game developer but I appreciate that there is a lot I can learn along the way from other industries.
+Junior full-stack developer with a passion for developing beautiful apps using simple code. I have experience across client-side, server-side and database technologies using object oriented design. I lean towards front-end development as a preference for its visual creativity and generating delightful user experiences but I am also strong at applying back-end logic.
 
-I spent the first 8 years of my professional career as a business change & analytics consultant until I finally decided to re-train to become a software developer, which has been a long-held and much-delayed ambition of mine. I have a passion for problem solving and a keen eye for detail which, when combined with my previous professional experience, provides me with a strong foundation for programming.
+I spent the first 8 years of my professional career as a business change & analytics consultant until I decided to re-train to become a software developer, which has been a long-held and much-delayed ambition of mine. I have a penchant for problem solving and a keen eye for detail which, when combined with my previous professional experience, provides me with a strong foundation for programming.
 
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications) | [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
@@ -15,7 +15,7 @@ I spent the first 8 years of my professional career as a business change & analy
 |[Acebook](https://github.com/julesnuggy/acebook-byte-3)|An innovative and one-of-a-kind social media web app created with Ruby on Rails, brought to you by Team Splendaberg over two weeks. Held role of project manager throughout. [Deployed on Heroku](https://splendaberg-acebook.herokuapp.com) using Continuous Integration & Deployment.|4|Ruby on Rails, PostgreSQL, HTML/CSS, Heroku, Amazon S3|RSpec, Capybara, Rubocop, Travis CI, CodeClimate|
 |[Tasteless Notes](https://github.com/julesnuggy/TastelessNotes)|Single-page app for making tacky notes. Developed by the 'Tasteless Sheep' team using only vanilla JavaScript - the only Node package used was http-server. Created our own test framework to TDD with.|4|JavaScript, HTML, CSS|Tasteless Tests|
 |[Thermostat](https://github.com/julesnuggy/thermostat)|Single-page app for controlling your (fictional) thermostat. I am particularly proud of this app for its  persistent data feature without a database. Connected to a weather API to display the London temperature.|2|JavaScript, jQuery, HTML, CSS|Jasmine|
-|[Bowling](https://github.com/julesnuggy/bowling-challenge)|Find it difficult to keep track of your bowling score because of the complicated logic? Wish you had an app which gamified the game to make it gamier? Hate page refreshes? Struggle no more with this one-page JavaScript bowling scorecard!|1|JavaScript, jQuery, Node.JS, Express, HTML, CSS|Zombie|
+|[Phoenix](https://github.com/julesnuggy/chitter-challenge)|A simple, gamified social media app based on a popular existing avian platform. Developing the app held a focus on correctly setting up the database.|1|Ruby, Sinatra, PostgreSQL, HTML, CSS, BeCrypt|RSpec, Capybara, SimpleCov|
 |[Rock, Paper, Scissors](https://github.com/julesnuggy/rps-challenge)|A digital version of the classic digit-manipulation game. I had great fun making this app look nice. |1|Ruby, Sinatra, HTML, CSS|RSpec, Rubocop, Capybara|
 
 ## Personal Projects
